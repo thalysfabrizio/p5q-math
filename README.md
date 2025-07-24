@@ -1,4 +1,5 @@
 # p5q-math
+<<<<<<< HEAD
 
 ### Descrição
 Um solucionador de problemas de matemática discreta. Este projeto visa fornecer ferramentas e soluções para uma variedade de desafios no domínio da matemática discreta, ideal para estudantes, educadores e entusiastas.
@@ -28,3 +29,6 @@ Para executar o projeto, siga os passos abaixo:
     ```bash
     npm run dev
     ```
+=======
+Discrete mathematics problem solver.
+>>>>>>> 6dfc7527025fe5d9dea986021f6ec19254611030
